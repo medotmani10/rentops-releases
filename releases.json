@@ -6,9 +6,9 @@
     "is_mandatory": false
   },
   "android": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "download_url": "https://github.com/medotmani10/rentops-releases/raw/main/app-universal-release.apk",
-    "changelog": "Mise à jour Android 2.0.1",
+    "changelog": "Mise à jour Android 2.0.2 avec installateur natif",
     "is_mandatory": false
   }
 }
