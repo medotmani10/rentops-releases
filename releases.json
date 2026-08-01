@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "2.0.0",
-    "download_url": "https://github.com/medotmani10/rentops/releases/download/v2.0.0/app-setup.msi",
-    "changelog": "Version initiale 2.0.0",
+    "version": "2.0.1",
+    "download_url": "https://github.com/medotmani10/rentops-releases/raw/main/DZ%20RentOps_2.0.1_x64-setup.exe",
+    "changelog": "Ajout de la carte des Fonds Attendus, correctif licence à vie et enregistrement employés.",
     "is_mandatory": false
   },
   "android": {
-    "version": "2.0.0",
-    "download_url": "https://github.com/medotmani10/rentops/releases/download/v2.0.0/app-universal-release.apk",
-    "changelog": "Version initiale Android 2.0.0",
+    "version": "2.0.1",
+    "download_url": "https://github.com/medotmani10/rentops-releases/raw/main/app-universal-release.apk",
+    "changelog": "Mise à jour Android 2.0.1",
     "is_mandatory": false
   }
 }
