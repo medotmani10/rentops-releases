@@ -1,8 +1,8 @@
 {
   "windows": {
-    "version": "2.0.3",
-    "download_url": "https://github.com/medotmani10/rentops-releases/raw/main/DZ%20RentOps_2.0.3_x64-setup.exe",
-    "changelog": "Mise à jour corrective version 2.0.3.",
+    "version": "2.0.4",
+    "download_url": "https://github.com/medotmani10/rentops-releases/raw/main/DZ%20RentOps_2.0.4_x64-setup.exe",
+    "changelog": "Mise à jour corrective version 2.0.4 et plein écran par défaut.",
     "is_mandatory": false
   },
   "android": {
